@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ceponatia
-- 👀 I’m interested in mobile apps that aren't scams and augmented reality
-- 🌱 I’m currently learning Java, Gradle, and Kotlin
-- 💞️ I’m looking to collaborate on programmin'
+- 👀 I'm a fullstack developer & blockchain enthusiast
+- 🌱 I’m currently learning Java, Gradle, and React
+- 💞️ I’m interested in web and mobile development, audio programming, and game development!
 - 📫 How to reach me: brian@snarebox.com
-
-<!---
-ceponatia/ceponatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
