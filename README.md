@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceponatia
-- 👀 I'm a fullstack developer & blockchain enthusiast
+- 👀 I'm a fullstack developer & business systems analyst
 - 🌱 I’m currently learning Typescript & Go
 - 💞️ I’m interested in Artificial Intelligence & Web Development
 - 📫 brian@snarebox.com
